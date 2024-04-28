@@ -1,5 +1,3 @@
-# Sorrxw
-# Circa 8/23/2023
 # Program to convert angle to degrees, minutes, seconds form 
 
 def main():
